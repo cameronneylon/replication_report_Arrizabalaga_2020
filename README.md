@@ -1,4 +1,4 @@
-# Replication and Review Report for Arrizabalagae et al (2020)
+# Replication and Review Report for Arrizabalaga et al (2020)
 
 A repository for a notebook attempting to replicate Arrizabalaga et al (2020) as part of the reviewing process.
 
